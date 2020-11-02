@@ -35,4 +35,10 @@ Functions are BLUE when spelt correctly
 Single Line and Multiple line comments
 - Also handles human reading
 
+Assignment to include
+- Simple arithmetic formulae
+- Demo Pascal's Triangle (2^x) as data structure
+- Demo Modulus as way of determining even-odd (value of numerator in fraction, introduces geometry and ratios)
+
+
 ---
