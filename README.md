@@ -44,7 +44,7 @@ Questions answer in the ReadMe.md
 - How many different ways of concatenation are illustrated?
 - Describe different ways of naming variables.
 
---
+---
 
 ### Different Character Escapes
 - See: https://docs.oracle.com/javase/tutorial/java/data/characters.html
