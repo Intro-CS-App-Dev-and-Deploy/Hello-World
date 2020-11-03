@@ -1,9 +1,17 @@
 # Hello-World
 A first program in Processing-JAVA
 
+Purpose of HelloWorld
+- Track changes to formulae and variables for debugging
+- "look inside program's progress of executable lines, variables"
+- "if returns or values are not what expected, then changes needed"
+
 Ideas to learn
 - Define static programming
 - Different parts of Processing IDE(color coded lines of code, debugger line, console, then dropdown menus)
+- Using Processing-JAVA's Spellchecker (colour coded key variables, functions, etc. & consistently named unique variables)& Atom.io's Spellchecker (dictionary for comments & consistent unique variables)
+  - i.e. variable initiation is yellow
+  - i.e. functions spelt correctly are blue
 - Initiating Variables and Population on same line
 - Concatenation
 - Use of Character Escapes
@@ -12,34 +20,35 @@ Ideas to learn
 - Introduces dynamic programming with skip counting
 - Bonus Question: why is String capitalized? (Answer introduces coding method in advanced computer science)
 
+Final Expectations (with Instructions, Vocabulary, & Explanations (Including URLs and IDE Use) )
+- Create a flat and static program, see exemplarHelloWorld
+- Use either form of concatenation to print developer messages to the console ("only what a programmer would see")
+- Pick a number and create println statements with concatenation (either variables or formulae) manipulating that number with operators, assignments operators, and modulo (modulus)
+- Note: modulus is the mathematics' description for the symbol, modulo, that looks like a percent symbol. If understood as a fraction, the numerator has different meaning
+
+Blocks of code, Emphasized Functions
+- Variables are initiated at the beginning of a program (Global Variables) or when needed (local variables)
+- Later, local variables will be introduced as garbage collected from the HEAP
+- `print` and `println` functions can occur anywhere that is needed
+- `print` and `println` parameters can be characters, strings, any variable, and any formula
+- More advanced Print Statements, like `printArray` will be introduced in later courses
+
+Other Coding Notes
+- Variable Naming helps with human reading (snake_case and camelCasing)
+- Semi-colons separate executable functions for compiler - difficult for human reading so we also use white space
+- Single Line and Multiple line comments also handle human reading
+
+Questions answer in the ReadMe.md
+- How many different ways of concatenation are illustrated?
+- Describe different ways of naming variables.
 
 --
 
 ### Different Character Escapes
 - See: https://docs.oracle.com/javase/tutorial/java/data/characters.html
+
 ---
 
 # To Include
-
-Purpose of console:
-- look inside program's progress of executable lines, variables
-- if returns or values are not what expected, then changes needed
-
-Questions
-- How many different ways of concatenation are illustrated?
-- Describe different ways of naming variables.
-
-Semi-colons separate executable functions for compiler - difficult for human reading so we also use white space
-
-Functions are BLUE when spelt correctly
-
-Single Line and Multiple line comments
-- Also handles human reading
-
-Assignment to include
-- Simple arithmetic formulae
-- Demo Pascal's Triangle (2^x) as data structure
-- Demo Modulus as way of determining even-odd (value of numerator in fraction, introduces geometry and ratios)
-
 
 ---
