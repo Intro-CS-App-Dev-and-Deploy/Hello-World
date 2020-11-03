@@ -8,6 +8,7 @@ Ideas to learn
 - Concatenation
 - Use of Character Escapes
 - Differences between the following variable types: `char`, `String`, `int`, `long`, `float`, `double`
+- Viewing a Variable & Viewing the Return of a Formula
 - Introduces dynamic programming with skip counting
 - Bonus Question: why is String capitalized? (Answer introduces coding method in advanced computer science)
 
