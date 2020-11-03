@@ -15,7 +15,9 @@ Ideas to learn
 - Initiating Variables and Population on same line
 - Concatenation
 - Use of Character Escapes
-- Differences between the following variable types: `char`, `String`, `int`, `long`, `float`, `double`
+- Differences between the following strongly-named variable types: `char`, `String`, `int`, `long`, `float`, `double`
+  - Note: strong variables differ in memory length and type
+  - These can only be combined with a function called casting
 - Viewing a Variable & Viewing the Return of a Formula
 - Introduces dynamic programming with skip counting
 - Bonus Question: why is String capitalized? (Answer introduces coding method in advanced computer science)
@@ -23,8 +25,8 @@ Ideas to learn
 Final Expectations (with Instructions, Vocabulary, & Explanations (Including URLs and IDE Use) )
 - Create a flat and static program, see exemplarHelloWorld
 - Use either form of concatenation to print developer messages to the console ("only what a programmer would see")
-- Pick a number and create println statements with concatenation (either variables or formulae) manipulating that number with operators, assignments operators, and modulo (modulus)
-- Note: modulus is the mathematics' description for the symbol, modulo, that looks like a percent symbol. If understood as a fraction, the numerator has different meaning
+- Pick a number and create println statements with concatenation (either variables or formulae) manipulating that number with all operators (4), increment (1), decrement (1), all assignments operators (4), and modulo (modulus)
+- Note: modulus is the mathematics' description for the symbol, modulo, that looks like a percent symbol. If understood as a fraction, the numerator has the modulo meaning
 
 Blocks of code, Emphasized Functions
 - Variables are initiated at the beginning of a program (Global Variables) or when needed (local variables)
@@ -48,6 +50,16 @@ Questions answer in the ReadMe.md
 - See: https://docs.oracle.com/javase/tutorial/java/data/characters.html
 
 ---
+
+### Gamification (23 points)
+- 1 point for any use of print
+- 1 point for any use of println
+- [6 points] 1 point per initiation of the 6 strongly-named variables (yellow words), and their use (no yellow underlines present)
+- 1 point for any Concatenation
+- 1 point for any Concatenation with \n
+- 1 point for any Concatenation with \t
+- 1 point for any Concatenation with another character escape
+- [11 points] 1 point each for operators (4 points), increment and decrement (2 points), assignment operators (4 points), and modulo (modulus) (1 point)
 
 # To Include
 
