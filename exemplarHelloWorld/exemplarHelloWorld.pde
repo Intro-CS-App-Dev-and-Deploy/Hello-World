@@ -11,6 +11,7 @@ long evenHigher = 0;
 float backwardsCounting = 0.1;
 double wayBack = 0.0;
 //
+// Concatenation
 println("Compare the difference in the next lines of concatentation describing the coding symbol change and the return difference?");
 println("\n" + name + phrase + highest_number);
 println("\n", name, phrase, highest_number);
@@ -19,8 +20,8 @@ println("\n", name, phrase, highest_number);
 // Pick a number and create formuale to return the value in two ways (into println or summative variable and then println)
 /*Use following operators (See Processing.org Reference / Opertators
 Arithmetic Operators: +, -, *, /
-Assignmnet Operators: %
-Modulus or Modulo: 
+Assignmnet Operators: +=, -=, *=, /=
+Modulus or Modulo: %
 */
 println("\nCounting with Formulae, exemplars using Baker's Dozen"); //Baker's Dozen,  Double Baker's Dozen,  Double Baker's Dozen & One More
 println("Starting Variable is", highest_number); //Returns 0
