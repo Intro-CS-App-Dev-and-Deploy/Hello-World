@@ -13,8 +13,8 @@ Ideas to learn
   - i.e. variable initiation is yellow
   - i.e. functions spelt correctly are blue
 - Initiating Variables and Population on same line
-- Concatenation
-- Use of Character Escapes
+- Concatenation ( ```=``` ```,```)
+- Use of Character Escapes (```\t```, ```\n```, and others ```find these using Google```)
 - Differences between the following strongly-named variable types: `char`, `String`, `int`, `long`, `float`, `double`
   - Note: strong variables differ in memory length and type
   - These can only be combined with a function called casting
