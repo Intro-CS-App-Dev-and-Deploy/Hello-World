@@ -4,23 +4,26 @@ A first program in Processing-JAVA
 Purpose of HelloWorld
 - Track changes to formulae and variables for debugging
 - "look inside program's progress of executable lines, variables"
-- "if returns or values are not what expected, then changes needed"
+- "if returns or values are not what is expected, then changes needed"
 
 Ideas to learn
-- Define static programming
+- Define static programming (see StaticProgram.pde)
 - Different parts of Processing IDE(color coded lines of code, debugger line, console, then dropdown menus)
-- Using Processing-JAVA's Spellchecker (colour coded key variables, functions, etc. & consistently named unique variables)& Atom.io's Spellchecker (dictionary for comments & consistent unique variables)
+- Using Processing-JAVA's Spellchecker (colour coded key variables, functions, etc. & consistently named unique variables) & Atom.io's Spellchecker (dictionary for comments & consistent unique variables)
   - i.e. variable initiation is yellow
   - i.e. functions spelt correctly are blue
 - Initiating Variables and Population on same line
 - Concatenation ( ```=``` ```,```)
 - Use of Character Escapes (```\t```, ```\n```, and others ```find these using Google```)
-- Differences between the following strongly-named variable types: `char`, `String`, `int`, `long`, `float`, `double`
+- Differences between the following strongly-formatted variable types: `char`, `String`, `int`, `long`, `float`, `double`
   - Note: strong variables differ in memory length and type
   - These can only be combined with a function called casting
+  - Loosely-formatted languages like JavaScript use `var`, `num`, etc.
 - Viewing a Variable & Viewing the Return of a Formula
+
+Take a prototyped static program and make it dynamic, by skip counting
 - Introduces dynamic programming with skip counting
-- Bonus Question: why is String capitalized? (Answer introduces coding method in advanced computer science)
+- Bonus Question: why is `String` capitalized? (Answer introduces coding method, OOP, in advanced computer science)
 
 Final Expectations (with Instructions, Vocabulary, & Explanations (Including URLs and IDE Use) )
 - Create a flat and static program, see exemplarHelloWorld
@@ -33,16 +36,16 @@ Blocks of code, Emphasized Functions
 - Later, local variables will be introduced as garbage collected from the HEAP
 - `print` and `println` functions can occur anywhere that is needed
 - `print` and `println` parameters can be characters, strings, any variable, and any formula
-- More advanced Print Statements, like `printArray` will be introduced in later courses
+- More advanced Print Statements, like `printArray` will be introduced with Drawing Text
 
 Other Coding Notes
 - Variable Naming helps with human reading (snake_case and camelCasing)
 - Semi-colons separate executable functions for compiler - difficult for human reading so we also use white space
 - Single Line and Multiple line comments also handle human reading
 
-Questions answer in the ReadMe.md
+Questions answered in the ReadMe.md
 - How many different ways of concatenation are illustrated?
-- Describe different ways of naming variables.
+- Describe different ways of naming variables?
 
 ---
 

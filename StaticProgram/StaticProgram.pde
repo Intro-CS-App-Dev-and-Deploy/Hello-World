@@ -18,7 +18,7 @@ String j = "counts";
 String k = "to";
 String l = "10"; //String Variable, no adding allowed
 int ten = int(l); //Number Variable, adding is allowed
-//Java is a strongly formatted language
+//Java is a strongly-formatted language
 String m = "by";
 String n = "1"; //Not a Number, NaN
 int one = int(n); //Is a number by "casting"
