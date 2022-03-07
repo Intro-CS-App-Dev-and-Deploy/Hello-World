@@ -1,6 +1,15 @@
 # Hello-World
 A first program in Processing-JAVA
 
+---
+
+# An Introduction to Computational Thinking
+- How to think with counting
+- How to think mathematically
+- **BUT** make the comptuer do all the work
+
+---
+
 Purpose of HelloWorld
 - Track changes to formulae and variables for debugging
 - "look inside program's progress of executable lines, variables"
