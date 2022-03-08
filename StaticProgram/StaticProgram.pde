@@ -9,7 +9,7 @@ char x = '!';
 String a = "You";
 String b = "said";
 String c = "Hello";
-char space = ' '; //System Resources, use "char", choose your variables wisely for the hard drive space (located by address)
+char space = ' '; //"System Resources", use "char", choose your variables wisely for the hard drive space (located by address)
 //println(a+space+b+space+c+x); //First Method of Concatenation, +
 println( a, b, c+x ); //Second Method of Concatenation, notice the spaces (human reading)
 //
