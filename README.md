@@ -17,7 +17,7 @@ Purpose of HelloWorld
 
 Ideas to learn
 - Define static programming (see StaticProgram.pde)
-- Different parts of Processing IDE(color coded lines of code, debugger line, console, then dropdown menus)
+- Different parts of Processing IDE (color coded lines of code, debugger line, console, then dropdown menus)
 - Using Processing-JAVA's Spellchecker (colour coded key variables, functions, etc. & consistently named unique variables) & Atom.io's Spellchecker (dictionary for comments & consistent unique variables)
   - i.e. variable initiation is yellow
   - i.e. functions spelt correctly are blue
