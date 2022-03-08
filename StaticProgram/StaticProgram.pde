@@ -13,6 +13,7 @@ char space = ' '; //System Resources, use "char", choose your variables wisely f
 //println(a+space+b+space+c+x); //First Method of Concatenation, +
 println( a, b, c+x ); //Second Method of Concatenation, notice the spaces (human reading)
 //
+//Concatenate the Second Sentence
 char z = '.';
 char y = ',';
 String d = "Mr";
