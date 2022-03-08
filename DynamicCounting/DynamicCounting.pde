@@ -1,5 +1,6 @@
 //Global Variables
 //Called Initializing Variables
+//Human Reading ... Able to initialize all on one line
 String g;
 String h;
 String i;
