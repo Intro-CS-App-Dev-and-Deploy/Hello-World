@@ -1,5 +1,6 @@
 //Global Variables
 //Called Initializing Variables
+//Human Reading ... Able to initialize all on one line
 String g;
 char h;
 String i;
@@ -16,6 +17,7 @@ int one;
 
 void setup() {
   //
+  //Local Variables Here
   //
   //Called Declaring, Assigning, Populating Values
   g = "Mr";
