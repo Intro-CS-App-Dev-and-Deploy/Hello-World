@@ -13,6 +13,7 @@ int one;
 
 void setup() {
   //
+  //Local Variables Here
   //
   //Called Declaring, Assigning, Populating Values
   g = "Mr";
