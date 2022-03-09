@@ -75,4 +75,6 @@ Questions answered in the ReadMe.md
 
 # To Include
 
+Enrichment: 1 class period is given to students who can write ASCII art into the Console, either through Setup() or Draw()
+
 ---
