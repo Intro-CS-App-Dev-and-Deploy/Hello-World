@@ -77,4 +77,10 @@ Questions answered in the ReadMe.md
 
 Enrichment: 1 class period is given to students who can write ASCII art into the Console, either through Setup() or Draw()
 
+Assginment Directions
+- Must include print & println, counting formulae, different variables
+- Create a counting program
+- Create a counting story (why was 6 afraid of 7, because 7 eight 9)
+- Create ASCII Art
+
 ---
