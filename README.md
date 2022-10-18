@@ -94,3 +94,10 @@ Flat
 - Using single line IFs and Ternary Operators first
 - Combining single line IFs to IF-ELSE to correct problems of appWidth&Height equaling zero and breaking the app
 - Compound AND OR conditionals the same as nested IFs
+
+Example Feedback statements needed
+- display is too small for minimum CANVAS size
+
+Program must be in fullScreen() when deployed
+
+---
