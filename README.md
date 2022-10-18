@@ -77,10 +77,20 @@ Questions answered in the ReadMe.md
 
 Enrichment: 1 class period is given to students who can write ASCII art into the Console, either through Setup() or Draw()
 
-Assginment Directions
+Assignment Directions
 - Must include print & println, counting formulae, different variables
 - Create a counting program
 - Create a counting story (why was 6 afraid of 7, because 7 eight 9)
 - Create ASCII Art
 
 ---
+
+Flat
+- key variables
+- integer variables
+- initiation, declaration, naming, and values
+- print, println, with character escapes
+- Algorithms for fitting CANVAS into DISPLAY, Orientation, and Instructions
+- Using single line IFs and Ternary Operators first
+- Combining single line IFs to IF-ELSE to correct problems of appWidth&Height equaling zero and breaking the app
+- Compound AND OR conditionals the same as nested IFs
