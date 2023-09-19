@@ -101,3 +101,12 @@ Example Feedback statements needed
 Program must be in fullScreen() when deployed
 
 ---
+
+# To Change, Progressions
+- print() & println()
+- background rect()
+- foreground rect()
+- quit button, rect()
+- Activation Window (review for Intermediate CS)
+
+Next: layout of main screen
