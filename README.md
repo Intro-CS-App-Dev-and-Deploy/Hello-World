@@ -110,3 +110,7 @@ Program must be in fullScreen() when deployed
 - Activation Window (review for Intermediate CS)
 
 Next: layout of main screen
+
+Note: remember to change Overview DOC
+
+---
